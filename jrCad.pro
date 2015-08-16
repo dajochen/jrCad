@@ -15,7 +15,7 @@ INCLUDEPATH += . \
 
 SOURCES += main.cpp
 
-QT += widgets
+QT += widgets xml
 
 LIBS += -ldxflib \
         -L../jrlib -ljr
